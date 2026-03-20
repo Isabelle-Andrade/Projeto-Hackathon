@@ -1,12 +1,10 @@
 body{ 
     
-    background-color:  #ec5192 !important; color: #edee9f; 
+    background-color:  #eccfe3 !important; color: #edee9f; 
 }
         
 .card-msg { 
     background-color: #fdb0d7; border-left: 5px solid #ffffff; 
 }
 
-h1{
-    color: #ec5192;
-}
+.cor-titulo{ color: #f154a3};
